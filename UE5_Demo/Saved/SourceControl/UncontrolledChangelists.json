@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/My_First_Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/My_First_Project/Content/FirstPerson/Maps/NewLevel.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/My_First_Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/ZJ/P2ERL3KH239OVFI86VTPY1.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/My_First_Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AV/PVNH7AKIHXNVPGQT8U5ILW.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/My_First_Project/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/My_First_Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LI/5ZJ28A59D8FZY3L2KK19PO.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/My_First_Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/74/N6UDK1TGLBIMVRDQHK0HCJ.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/My_First_Project/Content/FirstPerson/Maps/FirstPersonMap.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.lightingtut-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "F:/My working Documents/RIT work/RIT work/classes/Virtual Worlds/Activities/Inclass/LightingTut/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "LightingTut-18319896 [UE Editor]"
+				}
+			}
+		}
+	]
+}

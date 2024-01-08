@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/New folder/OculusTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/New folder/OculusTest/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/New folder/OculusTest/Content/VRTemplate/Maps/NewLevel.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/New folder/OculusTest/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/New folder/OculusTest/Content/Black.uasset"
+			]
+		}
+	]
+}

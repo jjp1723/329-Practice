@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QL/J5MYPKBPDQMQYOHFWH1JKH.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/TN/W2TR428KSF3NOIY189X1ND.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/DD/D4RDV5DVANNLWBS21LIJKM.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/1D/I6V4L47RBJ0J6CKTCQ5OKK.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/Q2/QKFKTSI5VXJXB2Q276S505.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/3W/LQ3EN8G86F50UC7O3QPBCN.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/21/SWFJEU6MDGDZ3339AGXNJ7.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2B/FM4UTT1LS5KL7MGXIM1DWF.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/6P/68FDKHSA6QUD0NM9TGX798.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/L3/XXO70P1FSMR8C9C2X3W228.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OG/I18GVU4K0UMT2OVFLSUPAX.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/UB/1PQ7QH4MVQ4F049HX1K70C.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/1E/KCZSAZZ7AS02HXNZ5PQOA1.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PP/AQSL0HXD2NR3PSLHJ59KO4.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/X8/P4NF0ZYOQWPLWG6GZ0AWIR.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5N/PMVHBC1DVMUOTXLDPO5V1W.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/XS/0K6A53ZV694K83HHX9TE4J.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JA/4O7A8YNQ5ZRTYXR55R52L6.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/TM/F9W3ENVPIDBWM1GAKUVP2O.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/E7/YLY1YT47GRQA60JPOZQM0Y.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/LightFlicker_BP.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/DQ/ICJHRIT6XU7W94GYEPPC1T.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/XD/Q5GR120228UQ0HJK7GFWGK.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6W/JY7SUJ255ATDURLCELSW0G.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/YC/OIF34SGP3O6YI0ULMMYYPN.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DD/Z7TD6AMT04NXVQBZBKW839.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1C/QAH71KUQSAS9RX3BC6LA9V.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/D6/5WCZVAERG4XGXOSJJ77DBL.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/AP/Y22UNXCL45OKMO7JEDCL7N.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/FirstDoorSequence.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/8G/0U913MFFCK4O3MXP7HTXPC.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/6L/8HA86CLYZ0C7DSW5BPC378.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/SecondDoorSequence.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/EnactedExercise 5.3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1H/NFUSD76V3HYAG4XO5038LC.uasset"
+			]
+		}
+	]
+}

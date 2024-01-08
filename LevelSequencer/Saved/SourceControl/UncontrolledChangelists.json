@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LevelSequencer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LevelSequencer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AX/7ZHPAGGQX00SFQHO0I6CTP.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LevelSequencer/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LevelSequencer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LevelSequencer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CH/ZMH5FZ71NQ24FPUA0A9ETA.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LevelSequencer/Content/NewLevelSequence.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LevelSequencer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Widgets/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Widgets/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XI/8LA1KO1H8LK3DF186F1VKV.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Widgets/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Widgets/Content/NewWidgetBlueprint.uasset"
+			]
+		}
+	]
+}

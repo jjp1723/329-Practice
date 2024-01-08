@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Attic_Panic 5.3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Attic_Panic 5.3/Content/VRTemplate/Maps/Attic_Panic.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Attic_Panic 5.3/Content/CageSequence.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/VRTemplate/Maps/Attic_Panic.umap",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/M_Gray.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/NewLevelSequence.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/GhostSequence.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/DoorSequence.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/LightSequence.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Attic_Panic/Content/CageSequence.uasset"
+			]
+		}
+	]
+}

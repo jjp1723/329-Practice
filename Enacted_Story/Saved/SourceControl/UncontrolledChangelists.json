@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/M_Black.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/FirstPerson/Maps/Level_0.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/zapsplat_cartoon_fall_fast_whistling_synth_84026.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/FirstPerson/Maps/Level_1.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/FirstPerson/Maps/Level_2.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/M_Blue.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/M_Green.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/FirstPerson/Maps/Level_3.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/FirstPerson/Maps/Level_2z.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/FirstPerson/Maps/Level_2_Real.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/FirstPerson/Maps/Level_3_Real.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/water_drips_reverberant_echo_cave_cavern.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/ambience_city_london_uk_park_millbank_gardens_002.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Enacted_Story 5.3/Content/sound_spark_Flatwoods_Scrub_Rock_Springs_Nature_Forest_General_Ambience_01.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Enacted_Story/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Enacted_Story/Content/FirstPerson/Maps/Level_0.umap",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Enacted_Story/Content/FirstPerson/Maps/Level_1.umap",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Enacted_Story/Content/FirstPerson/Maps/Level_2.umap",
+				"C:/Users/jjp1723/Documents/Unreal Projects/Enacted_Story/Content/M_Well.uasset"
+			]
+		}
+	]
+}

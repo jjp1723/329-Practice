@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LightingTutUE5 5.3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LightingTutUE5 5.3/Content/Lighting_tut.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LightingTutUE5 5.3/Content/Lighting_tut_BuiltData.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/LightingTutUE5 5.3/Content/FirstPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}

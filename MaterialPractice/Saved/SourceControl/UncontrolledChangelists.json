@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/MaterialPractice/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/GV/D412Y55Q710JQCFIH9RWKY.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/MaterialPractice/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KX/QP4CW7998FVLTIFC9XTOSY.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/Dominant_Mat.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ZY/CQBPICYLNHBNI9RH44QXIT.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/MaterialPractice/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZH/DLACERZNE6QI8A56ZXOD30.uasset"
+			]
+		}
+	]
+}

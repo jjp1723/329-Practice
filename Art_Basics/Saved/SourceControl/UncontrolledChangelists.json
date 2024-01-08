@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Art_Basics/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Art_Basics/Content/BP_Test.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Art_Basics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2E/6EMBMVXK3I3ZOQ7HF1SAZF.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/In-Class Activities/Art_Basics/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/0C/RECJ28QPJXANNUT0PP8H2O.uasset"
+			]
+		}
+	]
+}
